@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\belvanaufal\\source\\repos\\TpModul11_1302220011_KPL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3138CD-3372-4C70-9FDE-4FEE44C50883}|AljabarApp\\AljabarApp.csproj|c:\\users\\belvanaufal\\source\\repos\\tpmodul11_1302220011_kpl\\aljabarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3138CD-3372-4C70-9FDE-4FEE44C50883}|AljabarApp\\AljabarApp.csproj|solutionrelative:aljabarapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3BE99-7650-4A99-A0BE-45CE5CCFCB41}|AljabarLibraries\\AljabarLibraries.csproj|c:\\users\\belvanaufal\\source\\repos\\tpmodul11_1302220011_kpl\\aljabarlibraries\\aljabarlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25B3BE99-7650-4A99-A0BE-45CE5CCFCB41}|AljabarLibraries\\AljabarLibraries.csproj|solutionrelative:aljabarlibraries\\aljabarlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25B3BE99-7650-4A99-A0BE-45CE5CCFCB41}|AljabarLibraries\\AljabarLibraries.csproj|c:\\users\\belvanaufal\\source\\repos\\tpmodul11_1302220011_kpl\\aljabarlibraries\\aljabarlibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25B3BE99-7650-4A99-A0BE-45CE5CCFCB41}|AljabarLibraries\\AljabarLibraries.csproj|solutionrelative:aljabarlibraries\\aljabarlibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AljabarLibraries",
+              "DocumentMoniker": "C:\\Users\\belvanaufal\\source\\repos\\TpModul11_1302220011_KPL\\AljabarLibraries\\AljabarLibraries.csproj",
+              "RelativeDocumentMoniker": "AljabarLibraries\\AljabarLibraries.csproj",
+              "ToolTip": "C:\\Users\\belvanaufal\\source\\repos\\TpModul11_1302220011_KPL\\AljabarLibraries\\AljabarLibraries.csproj",
+              "RelativeToolTip": "AljabarLibraries\\AljabarLibraries.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-05T15:03:57.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\belvanaufal\\source\\repos\\TpModul11_1302220011_KPL\\AljabarApp\\Program.cs",
+              "RelativeDocumentMoniker": "AljabarApp\\Program.cs",
+              "ToolTip": "C:\\Users\\belvanaufal\\source\\repos\\TpModul11_1302220011_KPL\\AljabarApp\\Program.cs",
+              "RelativeToolTip": "AljabarApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:05:48.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AljabarLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\belvanaufal\\source\\repos\\TpModul11_1302220011_KPL\\AljabarLibraries\\AljabarLibrary.cs",
+              "RelativeDocumentMoniker": "AljabarLibraries\\AljabarLibrary.cs",
+              "ToolTip": "C:\\Users\\belvanaufal\\source\\repos\\TpModul11_1302220011_KPL\\AljabarLibraries\\AljabarLibrary.cs",
+              "RelativeToolTip": "AljabarLibraries\\AljabarLibrary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T15:04:34.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
